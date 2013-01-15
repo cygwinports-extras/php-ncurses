@@ -1,4 +1,0 @@
-category: PHP
-requires: libncursesw10 php
-sdesc: "PHP ncurses extension"
-ldesc: "Terminal screen handling extension for PHP (cli-mode only)"
